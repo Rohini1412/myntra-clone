@@ -63,24 +63,8 @@ The user can edit his all profile information.
 ## Responsive :
 Our website is responsive as well.
 
-## Contributors :
-1. [OMKAR PASALKAR](https://github.com/Omkar-WD)
-
-2. [PRAKASH VANTURE](https://github.com/webdev1903)
-
-3. [SWATI BERSURDA](https://github.com/swatibersurda)
-
-4. [DHANANJAY DHOKE](https://github.com/DhananjayDhoke)
-
-5. [ROHINI TIWARI](https://github.com/Rohini1412)
-
-6. MUKESH CHOUHAN
-
-## Our blog link :
-https://medium.com/@vantureprakash1903/construct-week-project-at-masai-myntra-clone-eb9f94a144e8
 
 ## Deploy Link :
 https://masai-myntra-clone.netlify.app/
 
-## Clone Myntra-Backend :
-    https://github.com/Omkar-WD/Myntra-Backend.git
+
